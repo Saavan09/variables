@@ -10,6 +10,12 @@
             string heroFullName;
 
             //begin code instructions
+            heroFullName = heroFirstName + " " + heroLastName;
+
+            Console.WriteLine("Behold the glorious hero!");
+            Console.WriteLine(heroFullName);
+            Console.WriteLine("Press any key to close this window...");
+            Console.ReadKey();
         }
     }
 }

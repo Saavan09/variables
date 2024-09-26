@@ -1,0 +1,15 @@
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\variables\Variables\obj\Debug\net8.0\ref\Variables.dll
