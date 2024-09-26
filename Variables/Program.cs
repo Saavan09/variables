@@ -18,6 +18,7 @@
             heroFullName = heroFirstName + " " + heroLastName;
 
             Console.WriteLine("Behold the glorious hero of programming: " + heroFullName + "!");
+            Console.WriteLine(heroFullName + "'s archnemesis is " + villainName + " the " + villainTitle + " whose minions are two " + minionTitle + "s, " + minion1Name + " and " + minion2Name + ". But they're no match for a hero as great as " + heroFirstName + "!");
             Console.WriteLine("Press any key to close this window...");
             Console.ReadKey();
         }
